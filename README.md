@@ -1,9 +1,12 @@
-# EXAMPLE OF A USE CASE OF LOGIC IN A REAL-WORLD SCENARIO
+# CS2353-FALL-2021-PROJECT
+PURPOSE:
+Shows the use case of boolean logic in a real-world scenario 
 
-This program is a basic integrity check function, which demonstrates the use of logic in a checksum.
+WHAT:
+This program utilizes a basic integrity check function, which is a simple type of checksum.
 
 USAGE INSTRUCTIONS:
-After compiling and running, the program will prompt you to enter in a string.
+C++ code, the program will prompt you to enter in a string.
 After entering the string, you will see the result of a basic integrity check function.
 
 ABOUT:
