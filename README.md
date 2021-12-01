@@ -1,4 +1,4 @@
-# CS2353 FALL 2021 PROJECT (USE CASE OF LOGIC IN REAL-WORLD SCENARIO)
+# EXAMPLE OF A USE CASE OF LOGIC IN A REAL-WORLD SCENARIO
 
 This program is a basic integrity check function, which demonstrates the use of logic in a checksum.
 
