@@ -1,3 +1,3 @@
-/mnt/c/Users/pc/CLionProjects/untitled18/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/mnt/c/Users/pc/CLionProjects/untitled18/cmake-build-debug/CMakeFiles/edit_cache.dir
-/mnt/c/Users/pc/CLionProjects/untitled18/cmake-build-debug/CMakeFiles/untitled18.dir
+/Users/pc/Documents/GitHub/CS2353-Fall-2021-Project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/pc/Documents/GitHub/CS2353-Fall-2021-Project/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pc/Documents/GitHub/CS2353-Fall-2021-Project/cmake-build-debug/CMakeFiles/untitled18.dir
