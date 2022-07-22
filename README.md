@@ -1,4 +1,4 @@
-Basic Checksum
+<h2>Basic Checksum</h2>
 
 Shows the use case of boolean logic in a real-world scenario 
 
