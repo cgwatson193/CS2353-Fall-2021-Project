@@ -3,4 +3,4 @@ project(untitled18)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(untitled18 main.cpp)
+add_executable(untitled18 src/main.cpp)
